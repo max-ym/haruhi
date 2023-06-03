@@ -1,4 +1,5 @@
 use crate::base::*;
+use crate::math::*;
 
 pub struct Stroke {
     pub width: Positive,

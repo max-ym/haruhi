@@ -1,5 +1,6 @@
 use std::borrow::Cow;
 use crate::base::*;
+use crate::math::*;
 
 pub struct Text {
     value: Cow<'static, str>,

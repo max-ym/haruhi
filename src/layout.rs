@@ -1,5 +1,6 @@
 use thiserror::Error;
 use crate::base::*;
+use crate::math::*;
 
 pub struct Row<E: Element> {
     elements: Vec<E>,

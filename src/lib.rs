@@ -1,4 +1,5 @@
 pub mod base;
+pub mod math;
 pub mod layout;
 pub mod image;
 pub mod text;

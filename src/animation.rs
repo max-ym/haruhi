@@ -1,5 +1,5 @@
 use std::time::Duration;
-use crate::base::*;
+use crate::math::*;
 use thiserror::Error;
 
 pub trait Animation<T> {
